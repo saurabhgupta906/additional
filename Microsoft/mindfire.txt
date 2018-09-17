@@ -1,0 +1,27 @@
+data structure in python
+web services
+sorting algo complexity
+searching complexity
+remove all dublicates from string(recusrsion)
+Q1.  Code to find out the perimeter of a given hexagon.
+
+Q2.  Code to  Reverse words in a string. https://www.geeksforgeeks.org/reverse-words-in-a-given-string/ 
+
+Q3.  Given an array of strings : { “Sdjksajd”, “Skjdasjj”, “Bjsdakja”, “Xhudhau”, “Eeeeggg”, “Chrome”}. Display them in alphabetical order without using library functions .
+
+O/P:- “Bjsdakja_Chrome_Eeeeggg_Sdjksajd_Skjdasjj_Xhudhau“.
+
+04 : Given p number of men sitting in a circular table. A man initiates hitting his team-mates in a clockwise cyclic order. He hits his neighbour at distance(k) ,where k>0. His neighbour then hits k th fellow neighbour and eliminates himself. This process continues until there is only one survivor. Find the number of steps it took to kill all men and find out the survivor.
+
+Refer: https://www.geeksforgeeks.org/josephus-problem-set-1-a-on-solution/
+Q5.   Given a string “XYZ” .Print all permutations in sorted lexicographic order.
+
+Refer: https://www.geeksforgeeks.org/lexicographic-permutations-of-string/
+
+Write a code to convert “BUCKY ROBERTS” to “BR_UO_CB_KE_YR_R_T_S”.
+
+
+1. http://www.geeksforgeeks.org/smallest-of-three-integers-without-comparison-operators/
+2. http://www.geeksforgeeks.org/find-subarray-with-given-sum/
+3. https://www.geeksforgeeks.org/lexicographic-permutations-of-string/
+4. http://www.geeksforgeeks.org/josephus-problem-set-1-a-on-solution/
